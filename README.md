@@ -16,10 +16,6 @@ Roblox Scripter • CTF/Websec • Competitive Programming
 ## 🎮 Roblox Scripter
 ## 🧑‍💻 CTF Writeups
 ## 🧠 Competitive Programming
-<details>
-<summary>📈 Stats</summary>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=enzian120&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzian120&layout=compact)
-</details>
-
