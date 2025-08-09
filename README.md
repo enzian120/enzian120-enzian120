@@ -3,10 +3,14 @@
 Roblox Scripter • CTF/Websec • Competitive Programming
 
 ## 🚀 Aktuell
-- Baue: Paper.io-Wager-Game (Roblox)
+- Baue: Vr Game
 - Trainiere: Web-Exploits & Networking (CTFs)
 - Competitive: Codeforces & Codingame
 
+## Ziele 2025
+- VR Game machen
+- Besser in Competetive Programming zu werden.
+- Top 100 Ctf Wettbewerb kommen.
 ## 🧰 Tech
 ![Lua](https://img.shields.io/badge/Lua-2C2D72)
 ![TS](https://img.shields.io/badge/TypeScript-3178C6)
